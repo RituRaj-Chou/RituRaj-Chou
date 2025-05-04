@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/RituRaj-Chou/RituRaj-Chou/blob/main/_fc123043-548a-440f-a92c-34c844cffb36%20(1).jpg)
+![MasterHead](https://github.com/RituRaj-Chou/RituRaj-Chou/blob/main/IMG_20250504_082848%5B1%5D.jpg)
 <h1 align="center">Hi 👋, I'm Rituraj Choudhury</h1>
 <h3 align="center">A Passionate Web-frontend Developer From India</h3>
 <img align="right" alt="coder RAJ" width="400" src="https://i.pinimg.com/originals/bd/1b/04/bd1b04ae480a107f6335219c6a561f6d.gif"
